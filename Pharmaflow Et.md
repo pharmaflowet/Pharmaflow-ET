@@ -64,3 +64,5 @@ The interface switches between English and Amharic at any time without restartin
 ## Backup & security
 
 Automatic scheduled backups save the database to a folder of your choice. Manual backups and restore are available at any time. Each user has a role (Admin, Accountant, Cashier, etc.) with configurable permissions. Login attempts are logged, and an admin recovery system lets the owner regain access if credentials are lost.
+
+Security improvments added.
