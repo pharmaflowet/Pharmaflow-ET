@@ -4,26 +4,29 @@ PharmaFlow ET is a Windows desktop pharmacy-management system built for Ethiopia
 
 ## Current desktop release
 
-- **Version:** 1.0.3
-- **Publication date:** 27 August 2026 (Nehase 21, 2018 E.C.)
+- **Version:** 1.0.4
+- **Publication date:** 24 September 2026 (Meskerem 14, 2019 E.C.)
 - **Release type:** Optional update
 - **Platform:** Windows x64
 - **Package:** Self-contained installer; users do not need to install .NET separately
-- **Installer:** `PharmaFlowEt-Setup-1.0.3.exe`
-- **SHA-256:** `65270980780e5216beaa9d96af4e41d6e8a64536a8069d8f1a8f4123bec63dce`
+- **Installer:** [PharmaFlowEt-Setup-1.0.4.exe](https://github.com/pharmaflowet/Pharmaflow-ET/releases/download/Release5/PharmaFlowEt-Setup-1.0.4.exe)
+- **SHA-256:** `d13c4f5820c0f10a5a7830234dcfed778a93ceedf82b20085000e2838e1e79b4`
 
-Version 1.0.3 is an optional update. Existing users on a supported version may dismiss the update prompt and continue using their current installation.
+Version 1.0.4 is an optional update. Existing users on a supported version may dismiss the update prompt and continue using their current installation.
 
-## What is new in version 1.0.3
+## What is new in version 1.0.4
 
-- A branded splash screen now appears immediately while PharmaFlow ET prepares local data and the workspace.
-- The splash screen includes a continuously animated blue loading indicator, reassuring users that startup is still progressing.
-- Question-mark buttons on the login and main windows provide direct access to the built-in bilingual Help system.
-- The login window now displays current PharmaFlow ET support and contact information.
+- Compact goods summaries, stock/expiry filters, and an inventory notification bell with saved read status and links to batch details.
+- Expiry row highlighting, badges beside batch expiry dates, and dashboard expiry summaries.
+- Newly registered products remain neutral until first stocked; genuine stockouts use red text and low stock uses orange text.
+- Improved supplier fields synchronized with credit supplier details, reordered expiry fields, and optional blank batch numbers when receiving stock.
+- Selling units in inventory logs and consistent grid-header alignment.
+- Recent credit sales correctly display the cashier, and closing the app stops its embedded server.
+- A cleaner splash screen with smaller corner curves.
 
 ## Installing or updating
 
-1. Download `PharmaFlowEt-Setup-1.0.3.exe` from the PharmaFlow ET [GitHub Releases](https://github.com/pharmaflowet/Pharmaflow-ET/releases) page after the 1.0.3 release is published.
+1. Download [PharmaFlowEt-Setup-1.0.4.exe](https://github.com/pharmaflowet/Pharmaflow-ET/releases/download/Release5/PharmaFlowEt-Setup-1.0.4.exe) from the [Release5 page](https://github.com/pharmaflowet/Pharmaflow-ET/releases/tag/Release5).
 2. Close PharmaFlow ET if it is running.
 3. Run the installer and follow the setup prompts.
 
@@ -51,14 +54,4 @@ For the full feature overview, see [Pharmaflow Et.md](Pharmaflow%20Et.md).
 
 ## License
 
-PharmaFlow ET is currently distributed as a beta/trial release. Installing or using the application indicates acceptance of the [software license agreement](installer/LICENSE.txt). Version 1.0.3 is identified there with its publication date and optional-update classification.
-
-## Building the Windows installer
-
-From the repository root, run:
-
-```powershell
-.\build-installer.ps1
-```
-
-The release script restores the Windows dependencies, publishes the self-contained x64 application, verifies required assets, builds the Inno Setup installer, and writes both the installer and optional-update `version.json` manifest to the `dist` folder.
+PharmaFlow ET is currently distributed as a beta/trial release. The software license agreement is presented during installation. Version 1.0.4 is identified there with its publication date and optional-update classification.
