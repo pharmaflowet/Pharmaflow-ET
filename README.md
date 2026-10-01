@@ -4,29 +4,27 @@ PharmaFlow ET is a Windows desktop pharmacy-management system built for Ethiopia
 
 ## Current desktop release
 
-- **Version:** 1.0.4
-- **Publication date:** 24 September 2026 (Meskerem 14, 2019 E.C.)
+- **Version:** 1.0.5
+- **Publication date:** 1 October 2026 (Meskerem 21, 2019 E.C.)
 - **Release type:** Optional update
 - **Platform:** Windows x64
 - **Package:** Self-contained installer; users do not need to install .NET separately
-- **Installer:** [PharmaFlowEt-Setup-1.0.4.exe](https://github.com/pharmaflowet/Pharmaflow-ET/releases/download/Release5/PharmaFlowEt-Setup-1.0.4.exe)
-- **SHA-256:** `d13c4f5820c0f10a5a7830234dcfed778a93ceedf82b20085000e2838e1e79b4`
+- **Installer:** [PharmaFlowEt-Setup-1.0.5.exe](https://github.com/pharmaflowet/Pharmaflow-ET/releases/download/Release6/PharmaFlowEt-Setup-1.0.5.exe)
+- **SHA-256:** `fb5455a940cb7c409e82637717e1b5ca2100963183354fab2df55f80964f1fef`
 
-Version 1.0.4 is an optional update. Existing users on a supported version may dismiss the update prompt and continue using their current installation.
+Version 1.0.5 is an optional update. Existing users on a supported version may dismiss the update prompt and continue using their current installation.
 
-## What is new in version 1.0.4
+## What is new in version 1.0.5
 
-- Compact goods summaries, stock/expiry filters, and an inventory notification bell with saved read status and links to batch details.
-- Expiry row highlighting, badges beside batch expiry dates, and dashboard expiry summaries.
-- Newly registered products remain neutral until first stocked; genuine stockouts use red text and low stock uses orange text.
-- Improved supplier fields synchronized with credit supplier details, reordered expiry fields, and optional blank batch numbers when receiving stock.
-- Selling units in inventory logs and consistent grid-header alignment.
-- Recent credit sales correctly display the cashier, and closing the app stops its embedded server.
-- A cleaner splash screen with smaller corner curves.
+- Inventory availability now uses shelf and store balances. Older batches without those fields are upgraded automatically.
+- Stock alerts use saved product thresholds, including zero.
+- Newly added Sale Hub products appear at the top of the new order grid.
+- Updates download inside the app with progress and checksum verification, then open the installer wizard.
+- The free trial lasts 10 days from the original installation date, including for existing unlicensed installations.
 
 ## Installing or updating
 
-1. Download [PharmaFlowEt-Setup-1.0.4.exe](https://github.com/pharmaflowet/Pharmaflow-ET/releases/download/Release5/PharmaFlowEt-Setup-1.0.4.exe) from the [Release5 page](https://github.com/pharmaflowet/Pharmaflow-ET/releases/tag/Release5).
+1. Download [PharmaFlowEt-Setup-1.0.5.exe](https://github.com/pharmaflowet/Pharmaflow-ET/releases/download/Release6/PharmaFlowEt-Setup-1.0.5.exe) from the [Release6 page](https://github.com/pharmaflowet/Pharmaflow-ET/releases/tag/Release6).
 2. Close PharmaFlow ET if it is running.
 3. Run the installer and follow the setup prompts.
 
@@ -54,4 +52,4 @@ For the full feature overview, see [Pharmaflow Et.md](Pharmaflow%20Et.md).
 
 ## License
 
-PharmaFlow ET is currently distributed as a beta/trial release. The software license agreement is presented during installation. Version 1.0.4 is identified there with its publication date and optional-update classification.
+PharmaFlow ET is currently distributed as a beta/trial release. The software license agreement is presented during installation. Version 1.0.5 is identified there with its publication date and optional-update classification.

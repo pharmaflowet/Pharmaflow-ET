@@ -13,7 +13,31 @@ PharmaFlow ET is a pharmacy management system built for Ethiopian pharmacies. It
 
 ---
 
-## Recently added in version 1.0.2
+## Recently added in version 1.0.5
+
+- **Accurate inventory balances** — shelf and store stock now determine available quantity; older batches are upgraded automatically.
+- **Saved stock alerts** — alert colors and notifications use each product's configured thresholds, including zero.
+- **Faster order entry** — newly added Sale Hub products appear at the top of the order grid.
+- **In-app updates** — installers download with visible progress and checksum verification, then the setup wizard opens.
+- **10-day trial** — the free trial runs for 10 days from the original installation date, including for existing unlicensed installations.
+
+## Added in version 1.0.4
+
+- **Inventory alerts and summaries** — compact goods KPIs, stock and expiry filters, and a notification bell with saved read status and direct access to affected batches.
+- **Expiry visibility** — translucent row highlighting, badges beside batch expiry dates, and dashboard expiry summaries.
+- **Stock status accuracy** — new products remain neutral until first stocked; stockouts use red text and low stock uses orange text.
+- **Stock entry improvements** — supplier fields synchronize with credit supplier details, expiry fields replace date-received inputs, and received batch numbers may remain blank.
+- **Clearer logs and grids** — quantities display their selling units and column headers follow their row alignment.
+- **Desktop fixes** — credit-sale activity displays the cashier, app exit stops the embedded server, and the splash appearance is refined.
+
+## Added in version 1.0.3
+
+- **Modern startup experience** — a branded splash screen appears immediately while PharmaFlow ET prepares the local data and workspace.
+- **Continuous loading feedback** — the splash screen's blue loading indicator remains animated throughout startup so users can see that loading is still in progress.
+- **Direct help access** — question-mark buttons on both the login and main windows open the built-in bilingual Help system.
+- **Updated support details** — the login window now displays PharmaFlow ET's current contact information for assistance.
+
+## Added in version 1.0.2
 
 - **Clinical Resources workspace** — open Rx Reference, the Good Dispensing Practice manual, and the EFDA-based adverse drug event reporting form from the main window's Resources menu.
 - **Searchable Rx Reference** — search clinical conditions, medicines, and supported alternate drug names; browse A–Z or by classification; and follow links between conditions and related medicines.
@@ -31,7 +55,7 @@ PharmaFlow ET is a pharmacy management system built for Ethiopian pharmacies. It
 
 ### Point of Sale
 
-Search for a product by name or code, pick the right batch (automatically selected by expiry), set the quantity, and complete the sale. Payment can be split across cash and multiple bank transfers. Credit sales are tracked against named customers. Receipts record every transaction with a full audit trail.
+Search for a product by name or code, pick the right batch (automatically selected by expiry), set the quantity, and complete the sale. Payment can be split across cash and multiple bank transfers. Credit sales are tracked against named customers. Completed sales are retained as internal business records with a full audit trail; the application does not issue customer receipts or other customer-facing proof-of-sale documents.
 
 ### Inventory Management
 
@@ -103,7 +127,7 @@ PharmaFlow ET can run on a local network with one PC acting as the server and ot
 
 ## Licensing & trial
 
-Each installation gets a 30-day free trial with full access. After the trial, a license serial is required to continue using the system without restrictions. The license is tied to the machine it is activated on.
+Each installation gets a 10-day free trial with full access. After the trial, a license serial is required to continue using the system without restrictions. The license is tied to the machine it is activated on.
 
 ---
 
