@@ -1,0 +1,576 @@
+================================================================================
+   PHARMAFLOW ET -- SOFTWARE LICENSE AGREEMENT & TERMS OF USE
+   Beta / Trial Release
+================================================================================
+
+Version: 1.0.6          Publication date: 5 October 2026
+Release type: Optional update to PharmaFlow ET 1.0.5
+
+IMPORTANT -- PLEASE READ CAREFULLY. This is a legal agreement between you (the
+individual or business installing or using the software, the "User") and the
+Developer. By selecting "I accept the agreement", installing, activating, or
+using PharmaFlow ET (the "Software"), you confirm that you have read,
+understood, and agreed to be bound by these terms. IF YOU DO NOT AGREE, SELECT
+"I DO NOT ACCEPT THE AGREEMENT" AND DO NOT INSTALL OR USE THE SOFTWARE.
+
+--------------------------------------------------------------------------------
+
+1. BETA / TRIAL NATURE OF THE SOFTWARE
+
+1.1  The Software is provided as a BETA / TRIAL RELEASE FOR TESTING AND
+     EVALUATION ONLY. It is pre-commercial, may be incomplete, may contain
+     errors ("bugs"), and may behave unpredictably.
+
+1.2  The Software is NOT CERTIFIED, VALIDATED, OR GUARANTEED for production
+     use, regulatory reporting, or as a sole system of record. You use it for
+     live pharmacy operations entirely at your own risk.
+
+1.3  We may modify, suspend, limit, or discontinue the Software, any feature,
+     or the trial program at any time without notice or liability.
+
+--------------------------------------------------------------------------------
+
+2. LICENSE GRANT AND SCOPE
+
+2.1  Subject to your compliance with this Agreement, we grant you a LIMITED,
+     NON-EXCLUSIVE, NON-TRANSFERABLE, REVOCABLE LICENSE to install and use the
+     Software for your internal pharmacy business operations during the
+     applicable trial or licensed period.
+
+2.2  Device-based licensing. A license authorizes use of the Software on the
+     licensed device(s)/installation(s) it is activated on. Activation may bind
+     the license to the hardware or installation identifier of that device.
+
+2.3  Local network deployment. You may deploy the Software within a single
+     pharmacy premises over your own local network (for example, one
+     host/server with connected workstations), provided the number of activated
+     devices does not exceed the licenses obtained for that premises.
+
+2.4  No license is granted for any use beyond what is expressly stated here.
+
+--------------------------------------------------------------------------------
+
+3. TRIAL PERIOD, ACTIVATION, AND LICENSING AFTER TRIAL
+
+3.1  The trial period is 10 DAYS from first installation or activation, unless
+     extended in writing by us.
+
+3.2  After the trial period, continued use may require activation with a valid
+     license key and payment of a license fee (see Section 4). The Software may
+     display reminders, restrict features, or stop functioning until activated.
+
+3.3  Activation may require a one-time or periodic online or offline
+     validation. You agree not to circumvent, disable, or tamper with
+     activation, licensing, or expiry controls.
+
+--------------------------------------------------------------------------------
+
+4. LICENSE FEES AFTER THE TRIAL (FUTURE COMMERCIAL TERMS)
+
+4.1  The trial is currently provided FREE OF CHARGE. We may, after the trial
+     period, offer continued use under a paid license at fees, in Ethiopian
+     Birr (ETB), and on terms to be published separately.
+
+4.2  No fee is payable for the trial itself. Any future paid license will be
+     governed by the pricing and terms in effect at the time you choose to
+     purchase it. You are under no obligation to purchase a paid license.
+
+4.3  Unless stated otherwise in writing, license fees (when introduced) are
+     NON-REFUNDABLE.
+
+--------------------------------------------------------------------------------
+
+5. ACCEPTABLE USE AND RESTRICTIONS
+
+You agree that you will NOT, and will not permit others to:
+
+5.1  Copy (except one backup copy), sell, rent, lease, sublicense, distribute,
+     or commercially exploit the Software;
+
+5.2  Reverse engineer, decompile, disassemble, or attempt to derive source
+     code, except to the extent this restriction is prohibited by applicable
+     Ethiopian law;
+
+5.3  Modify, adapt, translate, or create derivative works of the Software;
+
+5.4  Remove or alter any proprietary notices, branding, or license/activation
+     mechanisms;
+
+5.5  Use the Software to store or process unlawful content, or for any
+     unlawful purpose, including evasion of tax, regulatory, or record-keeping
+     obligations;
+
+5.6  Use the Software to harm, overload, or gain unauthorized access to any
+     system or data.
+
+--------------------------------------------------------------------------------
+
+6. YOUR DATA, PRIVACY, AND SECURITY
+
+6.1  You control your data. The Software is designed to run on your own
+     computers/local network. Business and operational data you enter
+     (inventory, sales, accounting, customer, supplier, and personnel records)
+     is stored on your equipment and is your responsibility.
+
+6.2  Personal data. If you record personal data of customers, employees, or
+     others, YOU ARE THE DATA CONTROLLER and are responsible for collecting,
+     storing, and processing it lawfully, including under Ethiopia's personal
+     data protection law. You are responsible for obtaining any consents and
+     for the security of your devices and network.
+
+6.3  Diagnostic information. The Software may generate local logs to help
+     diagnose errors. We do NOT collect your business data unless you
+     voluntarily send it to us (for example, when reporting a bug). Any data
+     you send us for support will be used only to provide support and improve
+     the Software.
+
+6.4  Security. You are responsible for device security, user accounts,
+     passwords, physical access, and network protection at your premises. We
+     are not responsible for breaches arising from your environment.
+
+--------------------------------------------------------------------------------
+
+7. PHARMACY REGULATORY AND PROFESSIONAL RESPONSIBILITY
+
+7.1  The Software is a TOOL to assist with sales, inventory, and accounting.
+     It does NOT constitute legal, accounting, tax, medical, or pharmaceutical
+     advice.
+
+7.2  YOU ARE SOLELY RESPONSIBLE for complying with all laws and regulations
+     applicable to your pharmacy, including those of the Ethiopian Food and
+     Drug Authority (EFDA), tax authorities, and any record-keeping, labeling,
+     dispensing, controlled-substance, and reporting requirements.
+
+7.3  You are responsible for verifying the accuracy of prices, stock, expiry
+     dates, calculations, invoices, and reports produced by the Software before
+     relying on them.
+
+--------------------------------------------------------------------------------
+
+8. BACKUPS AND DATA LOSS
+
+8.1  You are responsible for maintaining your own REGULAR BACKUPS. The
+     Software may include backup features, but we do not guarantee they will
+     prevent data loss.
+
+8.2  We are not responsible for any loss, corruption, or inaccessibility of
+     data, however caused, including software errors, power loss, hardware
+     failure, or user error.
+
+--------------------------------------------------------------------------------
+
+9. NO WARRANTY
+
+9.1  THE SOFTWARE IS PROVIDED "AS IS" AND "AS AVAILABLE", WITHOUT WARRANTY OF
+     ANY KIND, whether express, implied, or statutory, to the maximum extent
+     permitted by applicable law.
+
+9.2  We disclaim all implied warranties, including merchantability, fitness for
+     a particular purpose, accuracy, uninterrupted or error-free operation, and
+     non-infringement.
+
+9.3  Because this is a beta/trial release, you acknowledge it may not meet your
+     requirements and may fail or contain defects. Nothing in this Section
+     excludes any warranty or right that cannot be excluded under Ethiopian law.
+
+--------------------------------------------------------------------------------
+
+10. LIMITATION OF LIABILITY
+
+10.1 To the maximum extent permitted by applicable law, the Developer shall NOT
+     BE LIABLE for any indirect, incidental, special, consequential, or
+     punitive damages, or for loss of profits, revenue, goodwill, business,
+     data, or anticipated savings, arising out of or related to the Software or
+     this Agreement.
+
+10.2 To the maximum extent permitted by applicable law, the Developer's TOTAL
+     AGGREGATE LIABILITY for all claims relating to the Software shall not
+     exceed the greater of (a) the amount you actually paid for the Software in
+     the twelve (12) months preceding the claim, or (b) ETB 5,000. During the
+     free trial, where no fee has been paid, this amount is ETB 0.
+
+10.3 Nothing in this Agreement limits or excludes liability that cannot be
+     limited or excluded under Ethiopian law (for example, liability for fraud,
+     willful misconduct, or death/personal injury caused by negligence).
+
+--------------------------------------------------------------------------------
+
+11. SUPPORT
+
+11.1 Support during the trial is provided on a BEST-EFFORT, NO-OBLIGATION
+     BASIS and may be limited or unavailable.
+
+11.2 We do not guarantee any response time, bug fix, update, or continued
+     availability. Paid support, if offered later, will be governed by separate
+     terms.
+
+--------------------------------------------------------------------------------
+
+12. UPDATES AND CHANGES TO THE SOFTWARE
+
+12.1 We may provide updates, patches, or new versions at our discretion.
+     Updates are subject to this Agreement unless accompanied by separate
+     terms.
+
+12.2 We may add, change, or remove features, including during the trial.
+
+--------------------------------------------------------------------------------
+
+13. INTELLECTUAL PROPERTY
+
+13.1 The Software, its source code, design, branding, and all related
+     intellectual property are and remain the EXCLUSIVE PROPERTY OF THE
+     DEVELOPER. This Agreement grants a license only; it does NOT transfer
+     ownership.
+
+13.2 All rights not expressly granted are reserved.
+
+--------------------------------------------------------------------------------
+
+14. TERM AND TERMINATION
+
+14.1 This Agreement is effective on acceptance and continues until terminated
+     or until the trial/license period expires.
+
+14.2 The license terminates automatically if you breach this Agreement, if the
+     trial expires without valid activation, or if we discontinue the Software.
+
+14.3 On termination you must stop using and uninstall the Software. Sections
+     that by their nature should survive (including 6-10, 13, 15-16) survive
+     termination.
+
+14.4 You may terminate at any time by uninstalling the Software.
+
+--------------------------------------------------------------------------------
+
+15. GOVERNING LAW AND DISPUTE RESOLUTION
+
+15.1 This Agreement is governed by the laws of the Federal Democratic Republic
+     of Ethiopia, without regard to conflict-of-laws rules.
+
+15.2 The parties shall first attempt to resolve any dispute amicably through
+     good-faith discussion.
+
+15.3 If unresolved, the dispute shall be submitted to the competent courts of
+     Addis Ababa, Ethiopia, which shall have exclusive jurisdiction.
+
+--------------------------------------------------------------------------------
+
+16. GENERAL
+
+16.1 Severability. If any provision is held unenforceable, the rest remains in
+     effect and the provision is applied to the maximum extent permitted.
+
+16.2 No waiver. Failure to enforce any provision is not a waiver.
+
+16.3 Assignment. You may not assign this Agreement without our written consent.
+     We may assign it, including to any future company we form.
+
+16.4 Entire agreement. This is the entire agreement between you and the
+     Developer regarding the Software and supersedes prior understandings.
+
+16.5 Changes. We may update these terms for future versions; the terms accepted
+     at installation apply to that installation.
+
+16.6 Language. This Agreement is provided in English and Amharic. In case of
+     any inconsistency, the English version prevails.
+
+--------------------------------------------------------------------------------
+
+  ACCEPTANCE
+
+By selecting "I accept the agreement" and continuing the installation, you
+confirm that you are authorized to accept these terms (for yourself or your
+business), that you understand this is a BETA/TRIAL product provided WITHOUT
+WARRANTY, and that you agree to all terms above.
+
+If you do not agree, select "I do not accept the agreement" and exit the
+installer.
+
+--------------------------------------------------------------------------------
+
+  LICENSOR
+
+  Zelalem Tilahun
+  Addis Ababa, Bole Sub-city, Woreda 12, Ethiopia
+  Email: pharmaflow.et@gmail.com
+
+================================================================================
+================================================================================
+
+   ፋርማ-ፍሎው ET -- የሶፍትዌር ፍቃድ ስምምነትና የአጠቃቀም ውሎች
+   የሙከራ (ቤታ) ምርት
+
+================================================================================
+
+ስሪት፡ 1.0.6          የታተመበት ቀን፡ መስከረም 25 2019 ዓ.ም
+የልቀት ዓይነት፡ አማራጭ ዝማኔ ለPharmaFlow ET 1.0.5
+
+ጠቃሚ -- እባክዎ በጥንቃቄ ያንብቡ። ይህ በእርስዎ (ሶፍትዌሩን በሚጭነው ወይም
+በሚጠቀመው ግለሰብ ወይም ድርጅት፣ "ተጠቃሚ") እና በአበልጻጊው መካከል የተደረገ
+ሕጋዊ ስምምነት ነው። "ስምምነቱን እቀበላለሁ" በማለት፣ ፋርማ-ፍሎው ET ሶፍትዌሩን
+("ሶፍትዌር") በመጫን፣ በማግበር ወይም በመጠቀም፣ ይህን ውል አንብበው፣ ተረድተው
+እና ለመገዛት መስማማትዎን ያረጋግጣሉ። ካልተስማሙ "ስምምነቱን አልቀበልም" የሚለውን
+ይምረጡ፤ ሶፍትዌሩን አይጫኑ ወይም አይጠቀሙ።
+
+--------------------------------------------------------------------------------
+
+1. የሶፍትዌሩ የሙከራ (ቤታ) ባህሪ
+
+1.1  ሶፍትዌሩ የሚቀርበው ለሙከራና ለግምገማ ብቻ በታሰበ የቤታ/የሙከራ ስሪት ነው።
+     ምርቱ ከንግድ በፊት ያለ፣ ያልተሟላ ሊሆን የሚችል፣ ስህተቶችን ("ባግ") የያዘ
+     እና ሊገመት የማይችል ባህሪ ሊኖረው ይችላል።
+
+1.2  ሶፍትዌሩ ለቀጥታ የሥራ ኦፕሬሽን፣ ለሕጋዊ ሪፖርት ማቅረቢያ ወይም ብቸኛ
+     የመዝገብ ሥርዓት ሆኖ አልተረጋገጠም ወይም ዋስትና አልተሰጠበትም። ለቀጥታ
+     የፋርማሲ ሥራ የሚጠቀሙት ሙሉ በሙሉ በራስዎ ኃላፊነት ነው።
+
+1.3  ሶፍትዌሩን፣ ማንኛውንም ባህሪ ወይም የሙከራ ፕሮግራሙን በማንኛውም ጊዜ
+     ያለማስታወቂያና ያለ ኃላፊነት ልናሻሽል፣ ልናቋርጥ ወይም ልንገድብ እንችላለን።
+
+--------------------------------------------------------------------------------
+
+2. የፍቃድ አሰጣጥና ወሰን
+
+2.1  ይህን ስምምነት እስከ ጠበቁ ድረስ፣ ሶፍትዌሩን ለውስጣዊ የፋርማሲ ሥራዎ
+     ለመጫንና ለመጠቀም የተወሰነ፣ ብቸኛ ያልሆነ፣ የማይተላለፍ፣ ሊሰረዝ የሚችል
+     ፍቃድ እንሰጥዎታለን።
+
+2.2  በመሣሪያ ላይ የተመሠረተ ፍቃድ። ፍቃዱ ሶፍትዌሩ በተገበረበት መሣሪያ/ጭነት
+     ላይ ብቻ መጠቀምን ይፈቅዳል። ማግበሩ ፍቃዱን ከዚያ መሣሪያ ሃርድዌር ወይም
+     መለያ ጋር ሊያስርፍ ይችላል።
+
+2.3  በአካባቢ አውታረ መረብ መዘርጋት። ሶፍትዌሩን በአንድ የፋርማሲ ግቢ ውስጥ
+     በራስዎ የአካባቢ አውታረ መረብ (ለምሳሌ አንድ ሰርቨር ከተገናኙ ኮምፒውተሮች
+     ጋር) መዘርጋት ይችላሉ፤ ነገር ግን የነቁ መሣሪያዎች ብዛት ለዚያ ግቢ
+     ከተገኘው የፍቃድ ብዛት መብለጥ የለበትም።
+
+2.4  እዚህ በግልጽ ከተጠቀሰው ውጭ ለማንኛውም አጠቃቀም ፍቃድ አልተሰጠም።
+
+--------------------------------------------------------------------------------
+
+3. የሙከራ ጊዜ፣ ማግበርና ከሙከራ በኋላ ፍቃድ
+
+3.1  የሙከራ ጊዜው ከመጀመሪያ ጭነት ወይም ማግበር ጀምሮ 10 ቀናት ነው፤
+     በጽሑፍ ካልተራዘመ በስተቀር።
+
+3.2  ከሙከራ ጊዜ በኋላ መጠቀምን ለመቀጠል ትክክለኛ የፍቃድ ቁልፍ ማግበርና
+     የፍቃድ ክፍያ መክፈል ሊያስፈልግ ይችላል (ክፍል 4 ይመልከቱ)። ሶፍትዌሩ
+     እስኪነቃ ድረስ ማሳሰቢያ ሊያሳይ፣ ባህሪያትን ሊገድብ ወይም መሥራቱን ሊያቆም
+     ይችላል።
+
+3.3  ማግበሩ የአንድ ጊዜ ወይም በየጊዜው የመስመር ላይ/ከመስመር ውጭ ማረጋገጫ
+     ሊፈልግ ይችላል። የማግበር፣ የፍቃድ ወይም የጊዜ ማብቂያ ቁጥጥሮችን
+     ላለማለፍ፣ ላለማቦዘን ወይም ላለመነካካት ይስማማሉ።
+
+--------------------------------------------------------------------------------
+
+4. ከሙከራ በኋላ የፍቃድ ክፍያ (የወደፊት የንግድ ውል)
+
+4.1  የሙከራው ስሪት በአሁኑ ጊዜ በነጻ ይቀርባል። ከሙከራ ጊዜ በኋላ መጠቀምን
+     በተከፈለ ፍቃድ፣ በኢትዮጵያ ብር (ETB)፣ በተለየ በሚታተም ውል ልናቀርብ
+     እንችላለን።
+
+4.2  ለሙከራው ራሱ ምንም ክፍያ አይከፈልም። ማንኛውም የወደፊት የተከፈለ ፍቃድ
+     በሚገዙበት ጊዜ በሥራ ላይ ባለው የዋጋና ውል ይተዳደራል። የተከፈለ ፍቃድ
+     የመግዛት ግዴታ የለብዎትም።
+
+4.3  በጽሑፍ ሌላ ካልተገለጸ በስተቀር፣ የፍቃድ ክፍያ (ሲጀመር) ተመላሽ አይደለም።
+
+--------------------------------------------------------------------------------
+
+5. ተቀባይነት ያለው አጠቃቀምና ገደቦች
+
+የሚከተሉትን እንዳያደርጉ እና ሌሎችም እንዲያደርጉ እንዳይፈቅዱ ይስማማሉ፦
+
+5.1  ሶፍትዌሩን መቅዳት (ከአንድ የተጠባባቂ ቅጂ በስተቀር)፣ መሸጥ፣ ማከራየት፣
+     ንዑስ ፍቃድ መስጠት፣ ማሰራጨት ወይም በንግድ መጠቀም፤
+
+5.2  ሶፍትዌሩን ሪቨርስ ኢንጂነር ማድረግ፣ ዲኮምፓይል ማድረግ ወይም ምንጭ ኮድ
+     ለማውጣት መሞከር፤ ይህ ገደብ በኢትዮጵያ ሕግ ካልተከለከለ በስተቀር፤
+
+5.3  ሶፍትዌሩን ማሻሻል፣ ማስማማት፣ መተርጎም ወይም ተወላጅ ሥራዎችን መፍጠር፤
+
+5.4  ማንኛውንም የባለቤትነት ማስታወቂያ፣ ብራንድ ወይም የፍቃድ/የማግበር ዘዴ
+     ማስወገድ ወይም መለወጥ፤
+
+5.5  ሶፍትዌሩን ሕገ-ወጥ ይዘት ለማከማቸት ወይም ለማንኛውም ሕገ-ወጥ ዓላማ --
+     ግብር ወይም የመዝገብ አያያዝ ግዴታን ለማምለጥ ጨምሮ -- መጠቀም፤
+
+5.6  ሶፍትዌሩን ማንኛውንም ሥርዓት ወይም መረጃ ለመጉዳት፣ ለማጨናነቅ ወይም
+     ያለፍቃድ ለመድረስ መጠቀም።
+
+--------------------------------------------------------------------------------
+
+6. የእርስዎ መረጃ፣ ግላዊነትና ደህንነት
+
+6.1  መረጃዎን እርስዎ ይቆጣጠራሉ። ሶፍትዌሩ በራስዎ ኮምፒውተሮች/የአካባቢ
+     አውታረ መረብ ላይ እንዲሠራ የተነደፈ ነው። የሚያስገቡት የንግድና የሥራ
+     መረጃ (የእቃ ዝርዝር፣ ሽያጭ፣ የሂሳብ፣ የደንበኛ፣ የአቅራቢና የሠራተኛ
+     መዝገብ) በመሣሪያዎ ላይ ይከማቻል፤ ኃላፊነቱም የእርስዎ ነው።
+
+6.2  የግል መረጃ። የደንበኞች፣ የሠራተኞች ወይም የሌሎች የግል መረጃ ካስቀመጡ፣
+     እርስዎ የመረጃ ተቆጣጣሪ ነዎት፤ የኢትዮጵያን የግል መረጃ ጥበቃ ሕግን ጨምሮ
+     በሕጋዊ መንገድ የመሰብሰብ፣ የማከማቸትና የማስኬድ ኃላፊነት የእርስዎ ነው።
+     አስፈላጊ ፍቃዶችን የማግኘትና የደህንነት ኃላፊነትም የእርስዎ ነው።
+
+6.3  የምርመራ መረጃ። ሶፍትዌሩ ስህተቶችን ለመለየት የአካባቢ ምዝገባ (ሎግ)
+     ሊፈጥር ይችላል። እርስዎ በፈቃደኝነት ካልላኩልን በስተቀር የንግድ
+     መረጃዎን አንሰበስብም። ለድጋፍ የሚልኩልን መረጃ ድጋፍ ለመስጠትና
+     ሶፍትዌሩን ለማሻሻል ብቻ ይውላል።
+
+6.4  ደህንነት። የመሣሪያ ደህንነት፣ የተጠቃሚ መለያዎች፣ የይለፍ ቃላት፣
+     የአካላዊ መዳረሻና የአውታረ መረብ ጥበቃ ኃላፊነቱ የእርስዎ ነው። ከ
+     አካባቢዎ ለሚነሱ ጥሰቶች ኃላፊነት የለብንም።
+
+--------------------------------------------------------------------------------
+
+7. የፋርማሲ ሕጋዊና ሙያዊ ኃላፊነት
+
+7.1  ሶፍትዌሩ ለሽያጭ፣ ለእቃ ዝርዝርና ለሂሳብ የሚረዳ መሣሪያ ነው። ሕጋዊ፣
+     የሂሳብ፣ የግብር፣ የሕክምና ወይም የመድኃኒት ምክር አይደለም።
+
+7.2  የኢትዮጵያ የምግብና መድኃኒት ባለሥልጣን (EFDA)፣ የግብር ባለሥልጣናት
+     እንዲሁም ሌሎች ሁሉንም ተዛማጅ ሕጎችና ደንቦችን ማክበር ሙሉ በሙሉ
+     የእርስዎ ኃላፊነት ነው።
+
+7.3  ሶፍትዌሩ የሚያወጣቸውን ዋጋዎች፣ ክምችት፣ የማብቂያ ቀኖች፣ ስሌቶች፣
+     ደረሰኞችና ሪፖርቶች ትክክለኛነት ከመተማመንዎ በፊት የማረጋገጥ
+     ኃላፊነት የእርስዎ ነው።
+
+--------------------------------------------------------------------------------
+
+8. ቅጂ (ባክአፕ) እና የመረጃ መጥፋት
+
+8.1  በመደበኛነት የራስዎን ቅጂ (ባክአፕ) የመያዝ ኃላፊነት የእርስዎ ነው።
+     ሶፍትዌሩ የባክአፕ ባህሪ ሊኖረው ይችላል፤ ነገር ግን የመረጃ መጥፋትን
+     እንደሚከላከል ዋስትና አንሰጥም።
+
+8.2  በሶፍትዌር ስህተት፣ በኤሌክትሪክ መቋረጥ፣ በሃርድዌር ብልሽት ወይም
+     በተጠቃሚ ስህተት ጨምሮ ለሚደርስ የመረጃ መጥፋት ኃላፊነት የለብንም።
+
+--------------------------------------------------------------------------------
+
+9. ዋስትና አለመኖር
+
+9.1  ሶፍትዌሩ "እንዳለ" እና "እንደተገኘ"፣ ምንም ዓይነት ዋስትና ሳይኖረው --
+     ግልጽ፣ ስውር ወይም በሕግ የተደነገገ -- ይቀርባል።
+
+9.2  የንግድ ብቁነትን፣ ለተወሰነ ዓላማ መስማማትን፣ ትክክለኛነትን፣ ሳይቋረጥ
+     ወይም ያለ ስህተት መሥራትን እና አለመጣስን ጨምሮ ሁሉንም ስውር
+     ዋስትናዎች እንክዳለን።
+
+9.3  ይህ የቤታ/የሙከራ ስሪት በመሆኑ መስፈርቶችዎን ላያሟላ፣ ሊሰናከል ወይም
+     ጉድለት ሊኖረው እንደሚችል ይገነዘባሉ። በኢትዮጵያ ሕግ ሊገለል የማይችል
+     ማንኛውም ዋስትና ወይም መብት አይገለልም።
+
+--------------------------------------------------------------------------------
+
+10. የኃላፊነት ገደብ
+
+10.1 አበልጻጊው ከሶፍትዌሩ ወይም ከዚህ ስምምነት ጋር በተያያዘ ለሚነሳ
+     ቀጥተኛ ያልሆነ፣ አጋጣሚ፣ ልዩ፣ ተከታይ ወይም የቅጣት ጉዳት ኃላፊነት
+     አይኖርበትም።
+
+10.2 አበልጻጊው አጠቃላይ ኃላፊነት ከ(ሀ) ባለፉት 12 ወራት ከከፈሉት ክፍያ
+     ወይም (ለ) ETB 5,000 -- ከፍ ካለው -- አይበልጥም። በነጻ ሙከራ ጊዜ
+     ምንም ክፍያ ስላልተከፈለ ይህ መጠን ETB 0 ነው።
+
+10.3 በኢትዮጵያ ሕግ ሊገደብ ወይም ሊገለል የማይችል ኃላፊነት (ለምሳሌ
+     በማጭበርበር፣ በሆነ ብለው ጥፋት ወይም በቸልተኝነት በሚደርስ ሞት/
+     የአካል ጉዳይ) በዚህ ስምምነት አይገደብም።
+
+--------------------------------------------------------------------------------
+
+11. ድጋፍ
+
+11.1 በሙከራ ጊዜ የሚሰጥ ድጋፍ በተቻለ ጥረት፣ ያለ ግዴታ የሚሰጥ ሲሆን
+     የተወሰነ ወይም የማይገኝ ሊሆን ይችላል።
+
+11.2 ማንኛውንም የምላሽ ጊዜ፣ የባግ እርማት፣ ማሻሻያ ወይም ቀጣይነት ያለው
+     አገልግሎት ዋስትና አንሰጥም።
+
+--------------------------------------------------------------------------------
+
+12. ማሻሻያዎችና የሶፍትዌር ለውጦች
+
+12.1 ማሻሻያዎች፣ ጥገናዎች ወይም አዲስ ስሪቶች ልናቀርብ እንችላለን።
+     ማሻሻያዎች ከተለየ ውል ጋር ካልቀረቡ በስተቀር በዚህ ስምምነት ይተዳደራሉ።
+
+12.2 ባህሪያትን ልንጨምር፣ ልንለውጥ ወይም ልናስወግድ እንችላለን።
+
+--------------------------------------------------------------------------------
+
+13. የአእምሮ ንብረት
+
+13.1 ሶፍትዌሩ፣ ምንጭ ኮዱ፣ ንድፉ፣ ብራንዱ እና ሁሉም ተዛማጅ ንብረቶች
+     የአበልጻጊው ብቸኛ ንብረት ናቸው። ይህ ስምምነት ፍቃድ ብቻ ይሰጣል፤
+     ባለቤትነትን አያስተላልፍም።
+
+13.2 በግልጽ ያልተሰጡ መብቶች ሁሉ የተጠበቁ ናቸው።
+
+--------------------------------------------------------------------------------
+
+14. የጊዜ ቆይታና ማቋረጥ
+
+14.1 ይህ ስምምነት ሲቀበሉ ይጸናል፤ እስኪቋረጥ ወይም የሙከራ/የፍቃድ ጊዜው
+     እስኪያበቃ ይቀጥላል።
+
+14.2 ይህን ስምምነት ከጣሱ፣ ሙከራው ያለ ትክክለኛ ማግበር ካበቃ ወይም
+     ሶፍትዌሩን ካቋረጥን ፍቃዱ በራሱ ይቋረጣል።
+
+14.3 ሲቋረጥ ሶፍትዌሩን መጠቀም አቁመው ማራገፍ አለብዎት። በተፈጥሯቸው
+     መቀጠል ያለባቸው ክፍሎች (6-10፣ 13፣ 15-16 ጨምሮ) ከማቋረጥ
+     በኋላም ይቀጥላሉ።
+
+14.4 ሶፍትዌሩን በማራገፍ በማንኛውም ጊዜ ማቋረጥ ይችላሉ።
+
+--------------------------------------------------------------------------------
+
+15. የሚተዳደርበት ሕግና የክርክር አፈታት
+
+15.1 ይህ ስምምነት በኢትዮጵያ ፌዴራላዊ ዲሞክራሲያዊ ሪፐብሊክ ሕጎች
+     ይተዳደራል።
+
+15.2 ተዋዋዮች ማንኛውንም አለመግባባት በቅን ልቦና በውይይት ለመፍታት
+     ይጥራሉ።
+
+15.3 ካልተፈታ፣ አለመግባባቱ ለአዲስ አበባ፣ ኢትዮጵያ ብቁ ፍርድ ቤቶች
+     ይቀርባል፤ ሥልጣኑም ብቸኛ የእነሱ ይሆናል።
+
+--------------------------------------------------------------------------------
+
+16. ጠቅላላ
+
+16.1 መነጣጠል። ማንኛውም ድንጋጌ የማይፈጸም ሆኖ ቢገኝ ቀሪው ይቀጥላል።
+
+16.2 አለመተው። ድንጋጌ አለማስፈጸም መብትን እንደ መተው አይቆጠርም።
+
+16.3 ማስተላለፍ። ያለ ጽሑፍ ፍቃዳችን ይህን ስምምነት ማስተላለፍ አይችሉም።
+
+16.4 ሙሉ ስምምነት። ይህ ቀደም ያሉ መግባባቶችን ተክቶ ሙሉ ስምምነትን
+     ይወክላል።
+
+16.5 ለውጦች። ለወደፊት ስሪቶች ውሎችን ልናሻሽል እንችላለን፤ በጭነት ጊዜ
+     የተቀበሉት ውል ለዚያ ጭነት ይሠራል።
+
+16.6 ቋንቋ። ይህ ስምምነት በእንግሊዝኛና በአማርኛ ቀርቧል። ልዩነት ቢፈጠር
+     የእንግሊዝኛ ስሪት የበላይነት ይኖረዋል።
+
+--------------------------------------------------------------------------------
+
+  መቀበል
+
+"ስምምነቱን እቀበላለሁ" በመምረጥና ጭነቱን በመቀጠል፣ ይህን ውል ለመቀበል
+ሥልጣን እንዳለዎት (ለራስዎ ወይም ለድርጅትዎ)፣ ይህ የቤታ/የሙከራ ምርት ያለ
+ዋስትና መቅረቡን እንደተረዱ እና ሁሉንም ውሎች እንደተቀበሉ ያረጋግጣሉ።
+
+ካልተስማሙ "ስምምነቱን አልቀበልም" የሚለውን ይምረጡና ከጫኚው ይውጡ።
+
+--------------------------------------------------------------------------------
+
+  ፍቃድ ሰጪ
+
+  ዘላለም ጥላሁን
+  አዲስ አበባ፣ ቦሌ ክ/ከ፣ ወረዳ 12፣ ኢትዮጵያ
+  ኢሜይል፡ pharmaflow.et@gmail.com
